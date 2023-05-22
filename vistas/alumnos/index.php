@@ -27,7 +27,7 @@
                 <div class="row mb-3">
                     <div class="col">
                         <label for="alumno_fecha_naci">fecha_nacimiento del alumno</label>
-                        <input type="datetime" name="alumno_fecha_naci" id="alumno_fecha_naci" class="form-control">
+                        <input type="text" name="alumno_fecha_naci" id="alumno_fecha_naci" class="form-control" placeholder="Formato: dd/mm/aaaa">
                     </div>
                 </div>
                 <div class="row mb-3">
