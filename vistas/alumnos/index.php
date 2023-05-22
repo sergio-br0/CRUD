@@ -9,7 +9,7 @@
 </head>
 <body>
     <div class="container">
-        <h1 class="text-center">Informacion personal Alumnos del curso de Informatica</h1>
+        <h1 class="text-center">Informacion personal <br> Alumnos del curso de Informatica</h1>
         <div class="row justify-content-center">
             <form action="/crud/controladores/alumnos/guardar.php" method="POST" class="col-lg-8 border bg-light p-3">
                 <div class="row mb-3">
